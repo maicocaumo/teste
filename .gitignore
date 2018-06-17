@@ -1,0 +1,6 @@
+node_modules/
+client/bower_components/
+client/mkt/node_modules/
+out.pdf
+npm-debug.log
+.tmp/
